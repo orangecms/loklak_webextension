@@ -1,0 +1,15 @@
+{
+  "title": "loklak wok",
+  "name": "loklakwebextension",
+  "version": "0.0.1",
+  "description": "A cool twitter and social media harvester",
+  "main": "index.js",
+  "author": "Mario Behling",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
